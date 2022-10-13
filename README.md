@@ -38,7 +38,7 @@ programa
 	funcao inicio ()
 	{ inteiro numeros 
 	cadeia Nome
-cadeia rua
+        cadeia rua
 escreva ("informe o  seu nome ")
 leia(Nome)
 escreva ("informe o nome da rua")
